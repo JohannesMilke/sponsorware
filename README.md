@@ -1,10 +1,10 @@
 ## ✨&ensp;Quick Explanation
 
 1. When I reach <img alt="JohannesMilke | Sponsor" height="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fsponsors_target.png?alt=media" /> sponsors, another half of my repositories will be released to public. 
-2. If you [Request Access](https://johannesmilke.com/request "Request Access") and [Become A GitHub Sponsor](https://github.com/sponsors/JohannesMilke "Become A GitHub Sponsor") you will get **everytime directly access** to the source code & projects I release. 
+2. If you [Request Access](https://johannesmilke.com/#/request "Request Access") and [Become A GitHub Sponsor](https://github.com/sponsors/JohannesMilke "Become A GitHub Sponsor") you will get **everytime directly access** to the source code & projects I release. 
 3. After becoming a sponsor, you should get an **invitation via email to the private repository**, if the invite doesn't come instantly - wait some time.
 
-&ensp;[<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/request "REQUEST")
+&ensp;[<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")
 
 ## 💖&ensp;What Is Sponsorware?
 
