@@ -38,11 +38,7 @@ I am convinced that in longterm YouTube will become a platform where you get EVE
 The source code is available! To get the source code, **you need to request the source code first** and you also need to fill the form. (see image below) 
 After filling the form you should receive a confirmation email that you need to confirm by clicking on the button within the email.
 
-<a href="https://user-images.githubusercontent.com/44921899/117562891-88b9ca80-b0a2-11eb-8131-22db9354c3ef.jpg"><img src="https://user-images.githubusercontent.com/44921899/117562891-88b9ca80-b0a2-11eb-8131-22db9354c3ef.jpg" 
+<a href="https://user-images.githubusercontent.com/44921899/117563862-f5d05e80-b0a8-11eb-87fe-6453d8ef6336.jpg"><img src="https://user-images.githubusercontent.com/44921899/117563862-f5d05e80-b0a8-11eb-87fe-6453d8ef6336.jpg" 
 alt="Get Access To Source Code" width="720" border="10" /></a>
-
-
-
-
 
 [sponsor]: https://github.com/sponsors/JohannesMilke
