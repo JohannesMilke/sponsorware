@@ -35,12 +35,24 @@ I am convinced that in longterm YouTube will become a platform where you get EVE
 
 ### 1. Why Is The Source Code Not Available On GitHub?
 
-The source code is available! To get the source code, **you need to request the source code first** and you also need to fill the form. (see image below) 
-After filling the form you should receive a confirmation email that you need to confirm by clicking on the button within the email.
+The source code is available! To get the source code, **you need to request the source code first** and you also need to fill the form. See for more details below A. & B.
+
+**A. Request Source Code**
+
+You need to [request the source code first](https://johannesmilke.com/#/request "Request Access") and you also need to fill the form. (see image below)
 
 &ensp;[<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")
 
 <a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117563862-f5d05e80-b0a8-11eb-87fe-6453d8ef6336.jpg" 
 alt="Get Access To Source Code" width="720" border="10" /></a>
+
+**B. Confirm Email**
+
+After filling the form you should receive a confirmation email that you need to confirm. Simply click on the button "Confirm Your Subscription" within the email.
+
+*Check out also your spam folder, in case you didn't receive this confirmation email.*
+
+<a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117568222-71d5a100-b0bf-11eb-8b6e-bb4e4651ba42.jpg" 
+alt="Confirm Email" width="720" border="10" /></a>
 
 [sponsor]: https://github.com/sponsors/JohannesMilke
