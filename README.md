@@ -46,7 +46,7 @@ You need to [request the source code first](https://johannesmilke.com/#/request 
 <a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117563862-f5d05e80-b0a8-11eb-87fe-6453d8ef6336.jpg" 
 alt="Get Access To Source Code" width="720" border="10" /></a>
 
-### 2. Why didn't I get an email, even if I have sent already a request on your website?
+### 2. Why Didn't I Get An Email, Even If I Have Sent Already A Request On Your Website?
 
 After filling the form you should receive a confirmation email that you need to confirm. Simply click on the button "Confirm Your Subscription" within the email.
 
