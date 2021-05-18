@@ -35,7 +35,7 @@ I am convinced that in longterm YouTube will become a platform where you get EVE
 
 ### 1. Why Is The Source Code Not Available On GitHub?
 
-The source code is available! To get the source code, **you need to request the source code first** and you also need to fill the form. See for more details below A. & B.
+The source code is available! To get the source code, **you need to request the source code first** and you also need to fill the form. See for more details below A.
 
 **A. Request Source Code**
 
@@ -46,11 +46,11 @@ You need to [request the source code first](https://johannesmilke.com/#/request 
 <a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117563862-f5d05e80-b0a8-11eb-87fe-6453d8ef6336.jpg" 
 alt="Get Access To Source Code" width="720" border="10" /></a>
 
-**B. Confirm Email**
+### 2. Why didn't I get an email, even if I have sent already a request on your website?
 
 After filling the form you should receive a confirmation email that you need to confirm. Simply click on the button "Confirm Your Subscription" within the email.
 
-*Check out also your spam folder, in case you didn't receive this confirmation email.*
+*Check out also your spam folder, in case you didn't receive this confirmation email. Alternativaly search for the email subject "Request Access: Confirm Your Email" within your email client.*
 
 <a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117568222-71d5a100-b0bf-11eb-8b6e-bb4e4651ba42.jpg" 
 alt="Confirm Email" width="720" border="10" /></a>
