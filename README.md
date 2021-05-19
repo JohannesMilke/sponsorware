@@ -55,4 +55,9 @@ After filling the form you should receive a confirmation email that you need to 
 <a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117568222-71d5a100-b0bf-11eb-8b6e-bb4e4651ba42.jpg" 
 alt="Confirm Email" width="720" border="10" /></a>
 
+### 3. Why Do I Request The Source Code Even If I Don't Want To Become A Sponsor?
+Once the community target of f.e. 150 new sponsors is reached, half of my private projects will be made public. All people that have requested the source code and have not become a sponsor yet, will be informed that the source code of some of the private projects are publicly available now.
+
+In case you don't want to wait until the source code becomes publicly available in the future simply [Request Access](https://johannesmilke.com/#/request "Request Access") and [Become A GitHub Sponsor](https://github.com/sponsors/JohannesMilke "Become A GitHub Sponsor") so that you get everytime directly access to all the projects & source codes I release.
+
 [sponsor]: https://github.com/sponsors/JohannesMilke
