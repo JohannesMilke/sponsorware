@@ -60,4 +60,8 @@ Once the community target of f.e. 150 new sponsors is reached, half of my privat
 
 In case you don't want to wait until the source code becomes publicly available in the future simply [Request Access](https://johannesmilke.com/#/request "Request Access") and [Become A GitHub Sponsor](https://github.com/sponsors/JohannesMilke "Become A GitHub Sponsor") so that you get everytime directly access to all the projects & source codes I release.
 
+### 4. Why Is The GitHub Access Link Not Working Even If I Am A Sponsor?
+The access link is working! First of all, you need to accept the invitation from GitHub. Simply go to https://github.com/orgs/JohannesMilke-Sponsors/invitation?via_email=1 and accept the invitation. After this, you will have access to all GitHub repositories.
+
+
 [sponsor]: https://github.com/sponsors/JohannesMilke
