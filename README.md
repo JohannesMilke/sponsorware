@@ -50,7 +50,7 @@ alt="Get Access To Source Code" width="720" border="10" /></a>
 
 After filling the form you should receive a confirmation email that you need to confirm. Simply click on the button "Confirm Your Subscription" within the email.
 
-*Check out also your spam folder, in case you didn't receive this confirmation email. Alternatively search for the email subject "Request Access: Confirm Your Email" within your email client.*
+*Check out also your spam folder, in case you didn't receive this confirmation email. Alternatively search for the email subject "Request Access: Confirm Your Email" within your email client.* Also, in case the email goes to your spam folder, the subscription link might not be clickable therefore simple move the mail out of your spam into the inbox and try again to click on the button. 
 
 <a href="https://johannesmilke.com/#/request"><img src="https://user-images.githubusercontent.com/44921899/117568222-71d5a100-b0bf-11eb-8b6e-bb4e4651ba42.jpg" 
 alt="Confirm Email" width="720" border="10" /></a>
