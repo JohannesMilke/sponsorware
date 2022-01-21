@@ -1,6 +1,6 @@
 ## ✨&ensp;Quick Explanation
 
-1. When I reach <img alt="JohannesMilke | Sponsor" height="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fsponsors_target.png?alt=media" /> sponsors, another half of my repositories will be released to public. 
+1. When I reach **250** sponsors, another half of my repositories will be released to public. 
 2. If you [Request Access](https://johannesmilke.com/#/request "Request Access") and [Become A GitHub Sponsor](https://github.com/sponsors/JohannesMilke "Become A GitHub Sponsor") you will get **everytime directly access** to the source code & projects I release. 
 3. After becoming a sponsor, you should get an **invitation via email to the private repository**, if the invite doesn't come instantly - wait some time.
 
@@ -10,7 +10,7 @@
 
 Sponsorware means that new source code projects are released publicly if a specific target is met by the community, in the meantime existing sponsors can already access these new source code projects.
 
-Let's say the target is to reach 150 more sponsors on GitHub.
+Let's say the target is to reach 250 more sponsors on GitHub.
 If this target is met, all the new uploaded projects are made public so that everyone in the community can access them. After this a new target will be created for all future projects.
 
 **3 Advantages Of Sponsorware**
@@ -26,9 +26,9 @@ I am convinced that in longterm YouTube will become a platform where you get EVE
 
 ## ✌&ensp;How Am I Going To Use Sponsorware?
 
-1) I set a target for the community f.e. to reach 150 new sponsors.
+1) I set a target for the community f.e. to reach 250 new sponsors.
 2) I am going to upload new Flutter projects that will be all private, however sponsors can still access all projects at every time.
-3) If the target of f.e. 150 new sponsors is reached, half of my private projects will be made public.
+3) If the target of f.e. 250 new sponsors is reached, half of my private projects will be made public.
 4) Start over with 1. again
 
 ## 🤓&ensp;FAQs
@@ -56,7 +56,7 @@ After filling the form you should receive a confirmation email that you need to 
 alt="Confirm Email" width="720" border="10" /></a>
 
 ### 3. Why Do I Request The Source Code Even If I Don't Want To Become A Sponsor?
-Once the community target of f.e. 150 new sponsors is reached, half of my private projects will be made public. All people that have requested the source code and have not become a sponsor yet, will be informed that the source code of some of the private projects are publicly available now.
+Once the community target of f.e. 250 new sponsors is reached, half of my private projects will be made public. All people that have requested the source code and have not become a sponsor yet, will be informed that the source code of some of the private projects are publicly available now.
 
 In case you don't want to wait until the source code becomes publicly available in the future simply [Request Access](https://johannesmilke.com/#/request "Request Access") and [Become A GitHub Sponsor](https://github.com/sponsors/JohannesMilke "Become A GitHub Sponsor") so that you get everytime directly access to all the projects & source codes I release.
 
